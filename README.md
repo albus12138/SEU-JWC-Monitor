@@ -4,4 +4,4 @@
 
 配合 crontab 食用效果更佳 : )
 
-- Requirement：requests bs4
+- Requirement：requests bs4 lxml
